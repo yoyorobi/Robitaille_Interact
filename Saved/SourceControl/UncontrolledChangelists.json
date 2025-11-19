@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Robitaille_Interact/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/Robitaille_Interact/Content/InteractSystem/BP_InteractionParent.uasset",
+				"E:/Robitaille_Interact/Content/InteractSystem/WBP_IneractionUI.uasset",
+				"E:/Robitaille_Interact/Content/InteractSystem/WBP_InteractUI.uasset",
+				"E:/Robitaille_Interact/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/9R/AXV9YOXQFRM93IBYLP8B79.uasset"
+			]
+		}
+	]
+}
